@@ -78,10 +78,4 @@ They illustrate:
 
 [Repository Link](https://github.com/Shreyas-Rathod/DA6400_JanMay2025_PA3)
 
----
-
-## 💡 Conclusion
-
-This assignment highlights the practical benefits of **temporal abstraction** in RL.  
-Intra-option Q-learning shows stronger performance in complex state spaces, while SMDP Q-learning remains simpler and interpretable.
 
