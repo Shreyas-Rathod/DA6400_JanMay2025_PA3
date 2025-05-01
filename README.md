@@ -1,7 +1,7 @@
 # DA6400 - Reinforcement Learning Assignment 3
 
 **Course**: DA6400 - Introduction to Reinforcement Learning  
-**Institute**: Indian Institute of Technology Madras  
+Indian Institute of Technology Madras  
 **Student**: Shreyas Rathod (CS24M046)  
 **Date**: May 1, 2025
 
